@@ -5,12 +5,12 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>DevopsTrainingTech- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<link href="images/Devops-banner.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Devops Training Tech. We have started new batch .You have to join classes for shellsripting by next week </h1>
-<h1 align="center"> Devops Training Tech- Very Good Training center for DevOps with AWS Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to Devops Training Tech </h1>
+<h1 align="center"> Devops Training Tech is Training center for DevOps with AWS Bangalore India </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
